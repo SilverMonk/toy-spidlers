@@ -1,0 +1,18 @@
+{
+	"name": "library",
+	"version": "0.0.1",
+	"description": "",
+	"main": "server.js",
+	"author": "Auoneperson",
+	"dependencies": {
+		"express": "*",  
+		"ejs": "*",  
+		"feedparser":"*",  
+		"request":"*", 
+		"mongoose":"*",  
+		"mongodb":"*",
+		"superagent":"*",
+		"cheerio":"*",
+		"eventproxy":"*"
+	}
+}
